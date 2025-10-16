@@ -23,7 +23,7 @@ Also spent more time than I should have exploring build systems and web assembly
 
 Eventually it became time to get a job again, and I joined Dixa, in the AI team. Long story short(er),
 I started building the frontend for prototypes of AI features, and found myself leading the team. We had way more 
-need of people to setup services and pipelines to put AI models in production than to build UI, so that's what I
+need for people to setup services and pipelines to put AI models in production than to build UI, so that's what I
 learned and got my hands on. It's also when I started to think more about the processes and approaches that 
 make a team productive, while its members stay happy and keep growing, which has been a big part of my career to this day.
 

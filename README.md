@@ -15,7 +15,7 @@ Platform Team. In 2 years, we worked on 3 major initiatives - _migrating from An
 and migrating to a microsites architecture_. It's where I learned that good (software) architecture depends as much on
 the technical requirements, as on the organization that will have to adopt it.  
 
-I left Trustpilot to pursue an old dream of building better tools for architects to work with. 
+I left Trustpilot to pursue an old dream of building better tools for architects. 
 Besides trying to design a complex product from scratch, I got to spend more time with the language I had been
 playing with - Rust. I mostly built POCs to get to know what I didn't knew (A LOT), and built very basic versions
 of a rendering engine, an interpreter for a DSL, a version control system, and an ECS (Entity Component System).

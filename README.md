@@ -12,8 +12,8 @@ also never stopped learning, and here I am still. After a couple of years, what 
 
 I got my start at [Trustpilot](https://www.trustpilot.com/), where curiosity paid off, as given my knowledge of React, I got to join the newly formed 
 Platform Team. In 2 years, we worked on 3 major initiatives - _migrating from AngularJS to React, building a design system,
-and migrating to a microsites architecture_. It's where I learned that good (software) architecture depends as much of
-the technical requirements, as of the organization that will have to adopt it.  
+and migrating to a microsites architecture_. It's where I learned that good (software) architecture depends as much on
+the technical requirements, as on the organization that will have to adopt it.  
 
 I left Trustpilot to pursue an old dream of building better tools for architects to work with. 
 Besides trying to design a complex product from scratch, I got to spend more time with the language I had been

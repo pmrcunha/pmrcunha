@@ -36,7 +36,7 @@ apps for my own consumption, to replace some cloud service I was mindlessly rely
 much I can convince some friendly AI agents to help me with these endevours. 🤖
 
 ## Stack
-I spend my days writing **Typescript**, primarily **React**. Started some projects with **HTMX**, but the React ecosystem always ends up dragging me back. 😅 
+I spend my days writing **Typescript**, and primarily use **React** in the frontend. Started some projects with **HTMX**, but the vast React ecosystem always ends up dragging me back. 😅 
 When I need more performance, correctness or to be closer to the machine, I go for **Rust**. Also built some smaller projects in **Go** and found it enjoyable.
 For the AI stuff, I naturally had to use **Python**, which I found very easy to pick up - except for the dependency management that gave me loooots of headaches.
 

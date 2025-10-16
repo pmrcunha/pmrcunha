@@ -1,6 +1,6 @@
 # Hi there 👋  
-Glad you're reading this instead of LinkedIn!
-I suppose you heard of me somewhere and are trying to figure out what I'm all about.
+Glad you're reading this instead of LinkedIn!  
+I suppose you heard of me somewhere and are trying to figure out what I'm all about.  
 So I'll try to tell you. 😃
 
 ## How I met your monad  

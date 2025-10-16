@@ -21,7 +21,7 @@ playing with - Rust. I mostly built POCs to get to know what I didn't knew (A LO
 of a rendering engine, an interpreter for a DSL, a version control system, and an ECS (Entity Component System).
 Also spent more time than I should have exploring build systems and web assembly 😅
 
-Eventually it became time to get a job again, and I found myself at Dixa, in the AI team. Long story short(er),
+Eventually it became time to get a job again, and I joined Dixa, in the AI team. Long story short(er),
 I started building the frontend for prototypes of AI features, and found myself leading the team. We had way more 
 need of people to setup services and pipelines to put AI models in production than to build UI, so that's what I
 learned and got my hands on. It's also when I started to think more about the processes and approaches that 

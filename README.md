@@ -37,8 +37,10 @@ much I can convince some friendly AI agents to help me with these endevours. �
 
 ## Stack
 I spend my days writing **Typescript**, and primarily use **React** in the frontend. Started some projects with **HTMX**, but the vast React ecosystem always ends up dragging me back. 😅 
-When I need more performance, correctness or to be closer to the machine, I go for **Rust**. Also built some smaller projects in **Go** and found it enjoyable.
+When I need more performance, or for a compiler to tell me to be better, I go for **Rust**. Also built some smaller projects in **Go** and found it enjoyable.
 For the AI stuff, I naturally had to use **Python**, which I found very easy to pick up - except for the dependency management that gave me loooots of headaches.
+
+I'll likely focus more on Rust in the future, and would like to learn C at some point, since so much of our world runs on it.
 
 ## 📫 How to reach me
 Just shoot me an email: public@pmrcunha.com
